@@ -1,0 +1,35 @@
+{
+    "enheder": [
+        {
+            "navn": "Generator 1",
+            "effekt": 13
+        },
+        {
+            "navn": "Generator 2",
+            "effekt": 62
+        },
+        {
+            "navn": "Vindturbiner",
+            "effekt": 75,
+            "diesel_sparet": 52,
+            "beskrivelse": "4 vindgrupper",
+            "vindhastighed": "24",
+            "disel_sparet": 276
+        },
+        {
+            "navn": "Solceller",
+            "effekt": 82,
+            "diesel_sparet": 2,
+            "beskrivelse": "3 solcellegrupper",
+            "fladeeffekt": 4.32,
+            "disel_sparet": 42
+        },
+        {
+            "navn": "Batteribank",
+            "effekt": 82,
+            "kapacitet": 80.5
+        }
+
+    ],
+    "effekt_ud": 154
+}
